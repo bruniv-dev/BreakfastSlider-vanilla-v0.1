@@ -2,7 +2,7 @@ The Breakfast Club
 
 Overview
 
-Welcome to The Breakfast Club, a web project designed to showcase a variety of breakfast dishes through an engaging and interactive user interface. This project highlights four distinct South Indian breakfast items: Podi Idly, Ragi Dosa, Paniyaram, and Set Puri. Each dish is presented with detailed descriptions and beautiful imagery, offering users a delightful browsing experience.
+The Breakfast Club, a web project designed to showcase a variety of breakfast dishes through an engaging and interactive user interface. This project highlights four distinct South Indian breakfast items: Podi Idly, Ragi Dosa, Paniyaram, and Set Puri. Each dish is presented with detailed descriptions and beautiful imagery, offering users a delightful browsing experience.
 
 Features
 

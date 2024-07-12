@@ -12,12 +12,9 @@ A fixed header with a logo and navigation links to Home, Services, About, and Co
 Dishes List:
 A dynamic list of breakfast dishes, each with a unique description, price, and nutritional highlights.
 
-Slideshow Carousel
-a) Carousel Rotation:
+Slideshow Carousel - Carousel Rotatio - Enhanced Visual Feedback:
 An interactive carousel that rotates through images of the dishes, synced with the corresponding dish descriptions.
 The carousel pauses when hovered over and resumes when the hover ends.
-
-b) Enhanced Visual Feedback:
 Additionally, the carousel images glow when hovered over, providing enhanced visual feedback to the user.
 
 Interactive Controls:
